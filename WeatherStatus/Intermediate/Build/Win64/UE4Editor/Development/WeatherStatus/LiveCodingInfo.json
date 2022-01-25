@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WeatherStatus.cpp.obj": [
+			"WeatherImageDataTable.cpp.obj",
+			"WeatherStateRequest.cpp.obj",
+			"WeatherStatus.cpp.obj",
+			"WeatherStatusBPLibrary.cpp.obj"
+		],
+		"Module.WeatherStatus.gen.cpp.obj": [
+			"WeatherImageDataTable.gen.cpp.obj",
+			"WeatherStateRequest.gen.cpp.obj",
+			"WeatherStatus.init.gen.cpp.obj",
+			"WeatherStatusBPLibrary.gen.cpp.obj"
+		]
+	}
+}
